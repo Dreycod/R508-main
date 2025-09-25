@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+.idea/
+/_ReSharper.Caches/
+/.vs/R508/FileContentIndex/0cc92950-ab56-4903-866b-bfa042836356.vsidx
+/.vs/R508/FileContentIndex/639a1ef1-a45f-49b5-94ce-8a5b5942692a.vsidx
+/.vs/R508/FileContentIndex/795dc0a2-3db5-47a2-8c9b-66d86b201245.vsidx
+/.vs/R508/FileContentIndex/9b8b4bd1-926c-458b-b387-03e658ad71f2.vsidx
+/.vs/R508/FileContentIndex/b4422313-fb6a-4471-ab86-26da47cfd3f4.vsidx
