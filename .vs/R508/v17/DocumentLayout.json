@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\tests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\tests\\controllers\\productcontrollermocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\productcontrollermocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\dto\\typeproduitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\typeproduitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\models\\typeproduit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\typeproduit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\models\\repository\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\repository\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\models\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\dto\\produitdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\produitdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\dto\\marquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\marquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\andr\u00E9 suzuki\\documents\\c#\\projects\\r508-main\\app\\models\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\Tests\\Controllers\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controllers\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\Tests\\Controllers\\ProductControllerTest.cs",
+              "RelativeToolTip": "Tests\\Controllers\\ProductControllerTest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:54:51.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Produit.cs",
+              "RelativeToolTip": "App\\Models\\Produit.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:24:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\GenericController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "App\\Controllers\\GenericController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:07:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:21:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductControllerMockTest.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\Tests\\Controllers\\ProductControllerMockTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controllers\\ProductControllerMockTest.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\Tests\\Controllers\\ProductControllerMockTest.cs",
+              "RelativeToolTip": "Tests\\Controllers\\ProductControllerMockTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAArwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:49:30.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProduitDto.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\ProduitDto.cs",
+              "RelativeDocumentMoniker": "App\\DTO\\ProduitDto.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\ProduitDto.cs",
+              "RelativeToolTip": "App\\DTO\\ProduitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "App\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:43:02.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TypeProduitDto.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\TypeProduitDto.cs",
+              "RelativeDocumentMoniker": "App\\DTO\\TypeProduitDto.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\TypeProduitDto.cs",
+              "RelativeToolTip": "App\\DTO\\TypeProduitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:18:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeProduit.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\TypeProduit.cs",
+              "RelativeDocumentMoniker": "App\\Models\\TypeProduit.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\TypeProduit.cs",
+              "RelativeToolTip": "App\\Models\\TypeProduit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:17:58.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:16.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:20.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MarqueDto.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\MarqueDto.cs",
+              "RelativeDocumentMoniker": "App\\DTO\\MarqueDto.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\MarqueDto.cs",
+              "RelativeToolTip": "App\\DTO\\MarqueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:28:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProduitDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\ProduitDetailDto.cs",
+              "RelativeDocumentMoniker": "App\\DTO\\ProduitDetailDto.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\DTO\\ProduitDetailDto.cs",
+              "RelativeToolTip": "App\\DTO\\ProduitDetailDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:42:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Marque.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Marque.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Marque.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\Marque.cs",
+              "RelativeToolTip": "App\\Models\\Marque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:26:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "App\\Mapper\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "App\\Mapper\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:23:59.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "App\\Models\\EntityFramework\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9 Suzuki\\Documents\\C#\\Projects\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
+              "RelativeToolTip": "App\\Models\\EntityFramework\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:12.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
