@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 
 namespace Tests.Controllers;
 
@@ -27,7 +28,11 @@ public class ProductControllerMockTest
     public ProductControllerMockTest()
     {
         _produitManager = new Mock<IDataRepository<Produit>>();
+        var config = new MapperConfiguration(cfg => { 
+            cfg.AddProfile<MapperProfile>();
+        }, new LoggerFactory());
 
+        _mapper = config.CreateMapper();
         _productController = new ProduitController(_mapper, _produitManager.Object);
     }
     
@@ -131,21 +136,23 @@ public class ProductControllerMockTest
                 NomProduit = "Chaise",
                 Description = "Une superbe chaise",
                 NomPhoto = "Une superbe chaise bleu",
-                UriPhoto = "https://ikea.fr/chaise.jpg"
+                UriPhoto = "https://ikea.fr/chaise.jpg",
+                StockReel = 1
             },
             new()
             {
                 NomProduit = "Armoir",
                 Description = "Une superbe armoire",
                 NomPhoto = "Une superbe armoire jaune",
-                UriPhoto = "https://ikea.fr/armoire-jaune.jpg"
+                UriPhoto = "https://ikea.fr/armoire-jaune.jpg",
+                StockReel = 1
             }
         ];
         
         _produitManager
             .Setup(manager => manager.GetAllAsync())
             .ReturnsAsync(new ActionResult<IEnumerable<Produit>>(productInDb));
-        
+       
         // When : On souhaite récupérer tous les produits
         var products = _productController.GetAll().GetAwaiter().GetResult();
 

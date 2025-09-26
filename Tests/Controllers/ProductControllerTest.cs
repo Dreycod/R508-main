@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using App.Controllers;
 using App.DTO;
 using App.Mapper;
@@ -11,7 +8,11 @@ using AutoMapper;
 using JetBrains.Annotations;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Tests.Controllers;
 
@@ -28,7 +29,11 @@ public class ProductControllerTest
         _context = new AppDbContext();
         
         ProductManager manager = new(_context);
+        var config = new MapperConfiguration(cfg => {
+            cfg.AddProfile<MapperProfile>();
+        }, new LoggerFactory());
 
+        _mapper = config.CreateMapper();
 
         _productController = new ProduitController(_mapper, manager);
     }

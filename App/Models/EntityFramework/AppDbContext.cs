@@ -7,7 +7,9 @@ namespace App.Models.EntityFramework;
 public partial class AppDbContext : DbContext
 {
     public DbSet<Produit> Produits { get; set; }
-    
+    public DbSet<Marque> Marques { get; set; }
+    public DbSet<TypeProduit> TypeProduits { get; set; }
+
     public AppDbContext()
     {
     }
@@ -19,7 +21,7 @@ public partial class AppDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseNpgsql("Server=localhost;port=5432;Database=postgres; uid=postgres; password=postgres;");
+        => optionsBuilder.UseNpgsql("Server=localhost;port=5432;Database=AppDB; uid=postgres; password=postgres;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

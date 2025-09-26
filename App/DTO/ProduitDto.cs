@@ -2,14 +2,14 @@ namespace App.DTO;
 
 public class ProduitDto
 {
-    public int Id { get; set; }
-    public string? Nom { get; set; }
+    public int IdProduit { get; set; }
+    public string? NomProduit { get; set; }
     public string? Type { get; set; }
     public string? Marque { get; set; }
 
     protected bool Equals(ProduitDto other)
     {
-        return Nom == other.Nom && Type == other.Type && Marque == other.Marque;
+        return NomProduit == other.NomProduit && Type == other.Type && Marque == other.Marque;
     }
 
     public override bool Equals(object? obj)
@@ -22,6 +22,6 @@ public class ProduitDto
 
     public override int GetHashCode()
     {
-        return HashCode.Combine(Nom, Type, Marque);
+        return HashCode.Combine(NomProduit, Type, Marque);
     }
 }
