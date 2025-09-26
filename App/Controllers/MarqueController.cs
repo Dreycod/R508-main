@@ -46,12 +46,13 @@ public class MarqueController(IMapper _mapper, IDataRepository<Marque> manager) 
     [HttpPost]
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<Marque>> Create([FromBody] Marque marques)
+    public async Task<ActionResult<Marque>> Create([FromBody] MarqueDto marqueDto)
     {
         if (!ModelState.IsValid)
         {
             return BadRequest(ModelState);
         }
+        Marque marques = _mapper.Map<Marque>(marqueDto);
         await manager.AddAsync(marques);
         return CreatedAtAction("Get", new { id = marques.IdMarque }, marques);
     }

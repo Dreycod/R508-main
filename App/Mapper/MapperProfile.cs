@@ -27,7 +27,13 @@ public class MapperProfile: Profile
         .ForMember(dest => dest.EnReappro, opt => opt.MapFrom(src => (src.StockReel ?? 0) < src.StockMin))
         .ReverseMap();
 
-        CreateMap<Marque, MarqueDto>().ReverseMap();
-        CreateMap<TypeProduit, TypeProduitDto>().ReverseMap();
+    CreateMap<Marque, MarqueDto>()
+       .ForMember(dest => dest.NbProduits,
+        opt => opt.MapFrom(src => src.Produits != null ? src.Produits.Count : 0))
+    .ReverseMap()
+    .ForMember(dest => dest.Produits, opt => opt.Ignore()); // <- IGNORE le mapping inverse
+
+
+    CreateMap<TypeProduit, TypeProduitDto>().ReverseMap();
     }
 }

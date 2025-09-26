@@ -2,13 +2,13 @@
 
 public class MarqueDto
 {
-    public int Id { get; set; }
-    public string? Nom { get; set; }
+    public int IdMarque { get; set; }
+    public string? NomMarque { get; set; }
     public int NbProduits { get; set; }
 
     protected bool Equals(MarqueDto other)
     {
-        return Nom == other.Nom && NbProduits == other.NbProduits;
+        return NomMarque == other.NomMarque && NbProduits == other.NbProduits;
     }
 
     public override bool Equals(object? obj)
@@ -21,6 +21,6 @@ public class MarqueDto
 
     public override int GetHashCode()
     {
-        return HashCode.Combine(Nom, NbProduits);
+        return HashCode.Combine(NomMarque, NbProduits);
     }
 }

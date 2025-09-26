@@ -23,6 +23,9 @@ public class Program
         builder.Services.AddSwaggerGen();
         builder.Services.AddDbContext<AppDbContext>();
         builder.Services.AddScoped<IDataRepository<Produit>, ProductManager>();
+        builder.Services.AddScoped<IDataRepository<Marque>, MarqueManager>();
+        builder.Services.AddScoped<IDataRepository<TypeProduit>, TypeProduitManager>();
+
 
         var app = builder.Build();
 

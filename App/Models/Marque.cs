@@ -13,5 +13,5 @@ public class Marque
     [Column("nom_marque")] public string NomMarque { get; set; } = null!;
 
     [InverseProperty(nameof(Produit.MarqueNavigation))]
-    public virtual ICollection<Produit> Produits { get; set; } = null!;
+    public virtual ICollection<Produit> Produits { get; set; } = new List<Produit>();
 }

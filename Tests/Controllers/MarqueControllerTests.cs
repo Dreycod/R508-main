@@ -24,6 +24,7 @@ public class MarqueControllerTests
     private readonly AppDbContext _context;
     private readonly MarqueController _marqueController;
     private readonly IMapper _mapper;
+    private int _marqueId; // Accessible partout dans la classe
     public MarqueControllerTests()
     {
         _context = new AppDbContext();
@@ -41,7 +42,26 @@ public class MarqueControllerTests
     [TestCleanup]
     public void Cleanup()
     {
-        _context.Marques.RemoveRange(_context.Marques);
+        var produits = _context.Produits.Where(p => p.IdMarque == _marqueId).ToList();
+        if (produits.Any())
+        {
+            _context.Produits.RemoveRange(produits);
+            _context.SaveChanges();
+        }
+
+
+        _context.Produits.RemoveRange(produits);
+        _context.SaveChanges();
+
+        var marque = _context.Marques.Find(_marqueId);
+        if (marque != null)
+        {
+            _context.Marques.Remove(marque);
+            _context.SaveChanges();
+        }
+
+
+        _context.Marques.Remove(marque);
         _context.SaveChanges();
     }
 
@@ -146,10 +166,10 @@ public class MarqueControllerTests
     }
 
     [TestMethod]
-    public void ShouldCreateProduct()
+    public void ShouldCreateMarque()
     {
         // Given : Un produit a enregistré
-        Marque marqueToInsert = new()
+        MarqueDto marqueToInsert = new()
         {
             NomMarque = "Ikea"
         };
@@ -158,8 +178,8 @@ public class MarqueControllerTests
         ActionResult<Marque> action = _marqueController.Create(marqueToInsert).GetAwaiter().GetResult();
 
         // Then : Le produit est bien enregistré et le code renvoyé et CREATED (201)
-        Marque marqueInDb = _context.Marques.Find(marqueToInsert.IdMarque);
-
+        Marque marqueInDb = _context.Marques.Find(action.Value.IdMarque);
+        _marqueId = action.Value.IdMarque; // On stocke l'ID pour le cleanup
         Assert.IsNotNull(marqueInDb);
         Assert.IsNotNull(action);
         Assert.IsInstanceOfType(action.Result, typeof(CreatedAtActionResult));
