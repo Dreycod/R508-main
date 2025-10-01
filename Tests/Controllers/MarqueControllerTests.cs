@@ -28,7 +28,7 @@ public class MarqueControllerTests
     public MarqueControllerTests()
     {
         _context = new AppDbContext();
-
+         
         MarqueManager manager = new(_context);
         var config = new MapperConfiguration(cfg => {
             cfg.AddProfile<MapperProfile>();

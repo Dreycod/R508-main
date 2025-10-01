@@ -41,6 +41,19 @@ else
 @code {
     private WeatherForecast[]? forecasts;
 
+    List<ToastMessage> messages = new List<ToastMessage>();
+
+    private void ShowMessage(ToastType toastType) => messages.Add(CreateToastMessage(toastType));
+    private ToastMessage CreateToastMessage(ToastType toastType)
+    => new ToastMessage
+    {
+        Type = toastType,
+        Title = "Blazor Bootstrap",
+        HelpText = $"{DateTime.Now}",
+        Message = $"Hello, world! This is a toast message. DateTime: {DateTime.Now}",
+    };
+
+
     protected override async Task OnInitializedAsync()
     {
         // Simulate asynchronous loading to demonstrate streaming rendering

@@ -2,7 +2,7 @@ using BlazorApp.Models;
 
 namespace BlazorApp.Service;
 
-public class WSService : IService<Produit>
+public class WebService : IService<Produit>
 {
     private readonly HttpClient httpClient = new() 
     { 
