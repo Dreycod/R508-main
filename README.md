@@ -41,7 +41,7 @@ CREATE DATABASE "AppDB";
 
 Une fois la base créée, appliquez les migrations Entity Framework à la base :
 
-dotnet ef database update
+dotnet ef database update --project App
 
 Cela va créer les tables dans `AppDB` selon les modèles définis dans le projet.
 
