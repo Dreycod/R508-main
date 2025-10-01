@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\tests\\controllers\\marquecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\marquecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\tests\\controllers\\typeproduitcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\typeproduitcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\tests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\tests\\controllers\\productcontrollermocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\repository\\marquemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\dto\\produitdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\dto\\produitdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\tests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\controllers\\marquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\repository\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\tests\\controllers\\typeproduitcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63028637-D785-4F13-94C5-B178531FE5F2}|Tests\\Tests.csproj|solutionrelative:tests\\controllers\\typeproduitcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\models\\typeproduit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\models\\typeproduit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,20 +103,12 @@
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250905130246_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250912113714_fixfkmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250912113714_fixfkmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250912113800_fixfkmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250912113800_fixfkmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\suzukisa\\source\\repos\\dreycod\\r508-main\\app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.Razor\\Sdk\\Sdk.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -138,7 +138,7 @@
         },
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,85 +158,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MarqueControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\MarqueControllerTests.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\MarqueControllerTests.cs",
               "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\MarqueControllerTests.cs",
               "RelativeToolTip": "Tests\\Controllers\\MarqueControllerTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIAywDAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAQwJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T14:16:25.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MarqueManager.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\MarqueManager.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Repository\\MarqueManager.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\MarqueManager.cs",
-              "RelativeToolTip": "App\\Models\\Repository\\MarqueManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:21:05.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Marque.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Marque.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Marque.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Marque.cs",
-              "RelativeToolTip": "App\\Models\\Marque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:26:44.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MarqueDto.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\MarqueDto.cs",
-              "RelativeDocumentMoniker": "App\\DTO\\MarqueDto.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\MarqueDto.cs",
-              "RelativeToolTip": "App\\DTO\\MarqueDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:28:49.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Mapper\\MapperProfile.cs",
-              "RelativeDocumentMoniker": "App\\Mapper\\MapperProfile.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Mapper\\MapperProfile.cs",
-              "RelativeToolTip": "App\\Mapper\\MapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:23:59.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProduitDto.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDto.cs",
-              "RelativeDocumentMoniker": "App\\DTO\\ProduitDto.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDto.cs",
-              "RelativeToolTip": "App\\DTO\\ProduitDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:44:06.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ProduitDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDetailDto.cs",
               "RelativeDocumentMoniker": "App\\DTO\\ProduitDetailDto.cs",
@@ -244,12 +179,11 @@
               "RelativeToolTip": "App\\DTO\\ProduitDetailDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:42:18.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T16:42:18.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TypeProduitDto.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\TypeProduitDto.cs",
               "RelativeDocumentMoniker": "App\\DTO\\TypeProduitDto.cs",
@@ -257,25 +191,23 @@
               "RelativeToolTip": "App\\DTO\\TypeProduitDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:18:01.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T17:18:01.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ProductControllerMockTest.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\ProductControllerMockTest.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\ProductControllerMockTest.cs",
               "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\ProductControllerMockTest.cs",
               "RelativeToolTip": "Tests\\Controllers\\ProductControllerMockTest.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:49:30.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T15:49:30.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ProductControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\ProductControllerTest.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\ProductControllerTest.cs",
@@ -283,207 +215,23 @@
               "RelativeToolTip": "Tests\\Controllers\\ProductControllerTest.cs",
               "ViewState": "AgIAAPYAAAAAAAAAAAAkwA8BAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:54:51.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T12:54:51.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MarqueController.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\MarqueController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\MarqueController.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\MarqueController.cs",
-              "RelativeToolTip": "App\\Controllers\\MarqueController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T12:38:12.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Program.cs",
-              "RelativeDocumentMoniker": "App\\Program.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Program.cs",
-              "RelativeToolTip": "App\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:21:32.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "App\\Models\\EntityFramework\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
-              "RelativeToolTip": "App\\Models\\EntityFramework\\AppDbContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwDYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:44:12.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TypeProduit.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\TypeProduit.cs",
-              "RelativeDocumentMoniker": "App\\Models\\TypeProduit.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\TypeProduit.cs",
-              "RelativeToolTip": "App\\Models\\TypeProduit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:17:58.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Repository\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
-              "RelativeToolTip": "App\\Models\\Repository\\ProductManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:44:20.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IDataRepository.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Repository\\IDataRepository.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
-              "RelativeToolTip": "App\\Models\\Repository\\IDataRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:44:16.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TypeProduitManager.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\TypeProduitManager.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Repository\\TypeProduitManager.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\TypeProduitManager.cs",
-              "RelativeToolTip": "App\\Models\\Repository\\TypeProduitManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:11:56.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericManager.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\GenericManager.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Repository\\GenericManager.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\GenericManager.cs",
-              "RelativeToolTip": "App\\Models\\Repository\\GenericManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:24:31.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "TypeProduitControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\TypeProduitControllerTests.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\TypeProduitControllerTests.cs",
               "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\TypeProduitControllerTests.cs",
               "RelativeToolTip": "Tests\\Controllers\\TypeProduitControllerTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwDEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:14:22.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:14:22.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TypeProduitController.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\TypeProduitController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\TypeProduitController.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\TypeProduitController.cs",
-              "RelativeToolTip": "App\\Controllers\\TypeProduitController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:11:03.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProduitController.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\ProduitController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\ProduitController.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\ProduitController.cs",
-              "RelativeToolTip": "App\\Controllers\\ProduitController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:43:02.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Produit.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Produit.cs",
-              "RelativeDocumentMoniker": "App\\Models\\Produit.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Produit.cs",
-              "RelativeToolTip": "App\\Models\\Produit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:24:32.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20250905130246_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250905130246_InitialCreate.cs",
-              "RelativeDocumentMoniker": "App\\Migrations\\20250905130246_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250905130246_InitialCreate.cs",
-              "RelativeToolTip": "App\\Migrations\\20250905130246_InitialCreate.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:45:57.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250912113714_FixFKMigration.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113714_FixFKMigration.cs",
-              "RelativeDocumentMoniker": "App\\Migrations\\20250912113714_FixFKMigration.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113714_FixFKMigration.cs",
-              "RelativeToolTip": "App\\Migrations\\20250912113714_FixFKMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:45:45.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250912113800_FixFKMigration2.cs",
-              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113800_FixFKMigration2.cs",
-              "RelativeDocumentMoniker": "App\\Migrations\\20250912113800_FixFKMigration2.cs",
-              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113800_FixFKMigration2.cs",
-              "RelativeToolTip": "App\\Migrations\\20250912113800_FixFKMigration2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:45:44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 1,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -496,16 +244,244 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
               "Title": "20250926142735_ProduitMarquesMigration.cs",
               "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
               "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
               "RelativeToolTip": "App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T14:38:23.371Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProduitDto.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDto.cs",
+              "RelativeDocumentMoniker": "App\\DTO\\ProduitDto.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDto.cs",
+              "RelativeToolTip": "App\\DTO\\ProduitDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:06.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "App\\Mapper\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "App\\Mapper\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:23:59.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarqueDto.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\MarqueDto.cs",
+              "RelativeDocumentMoniker": "App\\DTO\\MarqueDto.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\MarqueDto.cs",
+              "RelativeToolTip": "App\\DTO\\MarqueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:28:49.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Marque.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Marque.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Marque.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Marque.cs",
+              "RelativeToolTip": "App\\Models\\Marque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:26:44.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MarqueManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\MarqueManager.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\MarqueManager.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\MarqueManager.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\MarqueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:21:05.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarqueController.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\MarqueController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\MarqueController.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\MarqueController.cs",
+              "RelativeToolTip": "App\\Controllers\\MarqueController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA5wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:38:12.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:21:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "App\\Models\\EntityFramework\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
+              "RelativeToolTip": "App\\Models\\EntityFramework\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:12.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TypeProduit.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\TypeProduit.cs",
+              "RelativeDocumentMoniker": "App\\Models\\TypeProduit.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\TypeProduit.cs",
+              "RelativeToolTip": "App\\Models\\TypeProduit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:17:58.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\ProductManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:44:16.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypeProduitManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\TypeProduitManager.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\TypeProduitManager.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\TypeProduitManager.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\TypeProduitManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:11:56.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\GenericManager.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Repository\\GenericManager.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\GenericManager.cs",
+              "RelativeToolTip": "App\\Models\\Repository\\GenericManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:24:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TypeProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\TypeProduitController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\TypeProduitController.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\TypeProduitController.cs",
+              "RelativeToolTip": "App\\Controllers\\TypeProduitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:11:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "App\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:43:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Produit.cs",
+              "RelativeToolTip": "App\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:24:32.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250905130246_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250905130246_InitialCreate.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20250905130246_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250905130246_InitialCreate.cs",
+              "RelativeToolTip": "App\\Migrations\\20250905130246_InitialCreate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:45:57.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250912113714_FixFKMigration.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113714_FixFKMigration.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20250912113714_FixFKMigration.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113714_FixFKMigration.cs",
+              "RelativeToolTip": "App\\Migrations\\20250912113714_FixFKMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:45:45.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250912113800_FixFKMigration2.cs",
+              "DocumentMoniker": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113800_FixFKMigration2.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20250912113800_FixFKMigration2.cs",
+              "ToolTip": "C:\\Users\\suzukisa\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113800_FixFKMigration2.cs",
+              "RelativeToolTip": "App\\Migrations\\20250912113800_FixFKMigration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:45:44Z"
             },
             {
               "$type": "Document",
