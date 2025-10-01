@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\pages\\produits.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\produits.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\viewmodel\\produitstableviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\viewmodel\\produitstableviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\service\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\service\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,12 +47,24 @@
       "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\models\\toastnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\models\\toastnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F678471-BD58-44CB-8268-1D5AFB1E750B}|BlazorApp\\BlazorApp.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\blazorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -127,10 +163,6 @@
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250905130246_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250926142735_produitmarquesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|c:\\users\\dasilvda\\source\\repos\\dreycod\\r508-main\\app\\migrations\\20250912113714_fixfkmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C7E4B7-EF99-4F6F-BED4-2F8616F4D586}|App\\App.csproj|solutionrelative:app\\migrations\\20250912113714_fixfkmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -174,73 +206,8 @@
         },
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebService.cs",
-              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\WebService.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\Service\\WebService.cs",
-              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\WebService.cs",
-              "RelativeToolTip": "BlazorApp\\Service\\WebService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:53:57.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\IService.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\Service\\IService.cs",
-              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\IService.cs",
-              "RelativeToolTip": "BlazorApp\\Service\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:52:50.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Produit.cs",
-              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Models\\Produit.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\Models\\Produit.cs",
-              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Models\\Produit.cs",
-              "RelativeToolTip": "BlazorApp\\Models\\Produit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T14:52:47.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T14:48:11.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\_Imports.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T14:44:55.646Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -259,33 +226,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\WebService.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Service\\WebService.cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\WebService.cs",
+              "RelativeToolTip": "BlazorApp\\Service\\WebService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:53:57.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Models\\Produit.cs",
+              "RelativeToolTip": "BlazorApp\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:52:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produits.razor",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Produits.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Produits.razor",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Produits.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Produits.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T14:48:11.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T14:44:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "BlazorApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T14:44:24.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "BlazorApp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T14:43:53.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-01T15:43:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T15:42:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T15:04:06.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:44:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProduitsTableViewModel .cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\ViewModel\\ProduitsTableViewModel .cs",
+              "RelativeDocumentMoniker": "BlazorApp\\ViewModel\\ProduitsTableViewModel .cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\ViewModel\\ProduitsTableViewModel .cs",
+              "RelativeToolTip": "BlazorApp\\ViewModel\\ProduitsTableViewModel .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:00:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Service\\IService.cs",
+              "RelativeToolTip": "BlazorApp\\Service\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:52:50.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T15:42:26.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250926142735_ProduitMarquesMigration.cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
+              "RelativeToolTip": "App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAiwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:38:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToastNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Models\\ToastNotifications.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Models\\ToastNotifications.cs",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Models\\ToastNotifications.cs",
+              "RelativeToolTip": "BlazorApp\\Models\\ToastNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:13:11.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Components\\App.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T15:04:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\BlazorApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BlazorApp\\Properties\\launchSettings.json",
@@ -293,11 +442,12 @@
               "RelativeToolTip": "BlazorApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-01T14:42:43.708Z"
+              "WhenOpened": "2025-10-01T14:42:43.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "MarqueControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\MarqueControllerTests.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\MarqueControllerTests.cs",
@@ -309,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "MarqueManager.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\MarqueManager.cs",
               "RelativeDocumentMoniker": "App\\Models\\Repository\\MarqueManager.cs",
@@ -321,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Marque.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Marque.cs",
               "RelativeDocumentMoniker": "App\\Models\\Marque.cs",
@@ -333,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "MarqueDto.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\MarqueDto.cs",
               "RelativeDocumentMoniker": "App\\DTO\\MarqueDto.cs",
@@ -345,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "MapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Mapper\\MapperProfile.cs",
               "RelativeDocumentMoniker": "App\\Mapper\\MapperProfile.cs",
@@ -357,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "ProduitDto.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDto.cs",
               "RelativeDocumentMoniker": "App\\DTO\\ProduitDto.cs",
@@ -369,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "ProduitDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\ProduitDetailDto.cs",
               "RelativeDocumentMoniker": "App\\DTO\\ProduitDetailDto.cs",
@@ -381,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "TypeProduitDto.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\DTO\\TypeProduitDto.cs",
               "RelativeDocumentMoniker": "App\\DTO\\TypeProduitDto.cs",
@@ -393,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "ProductControllerMockTest.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\ProductControllerMockTest.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\ProductControllerMockTest.cs",
@@ -405,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "ProductControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\ProductControllerTest.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\ProductControllerTest.cs",
@@ -417,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "MarqueController.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\MarqueController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\MarqueController.cs",
@@ -429,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Program.cs",
               "RelativeDocumentMoniker": "App\\Program.cs",
@@ -441,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\EntityFramework\\AppDbContext.cs",
               "RelativeDocumentMoniker": "App\\Models\\EntityFramework\\AppDbContext.cs",
@@ -453,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "TypeProduit.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\TypeProduit.cs",
               "RelativeDocumentMoniker": "App\\Models\\TypeProduit.cs",
@@ -465,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\ProductManager.cs",
               "RelativeDocumentMoniker": "App\\Models\\Repository\\ProductManager.cs",
@@ -477,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "IDataRepository.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\IDataRepository.cs",
               "RelativeDocumentMoniker": "App\\Models\\Repository\\IDataRepository.cs",
@@ -489,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "TypeProduitManager.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\TypeProduitManager.cs",
               "RelativeDocumentMoniker": "App\\Models\\Repository\\TypeProduitManager.cs",
@@ -501,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "GenericManager.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Repository\\GenericManager.cs",
               "RelativeDocumentMoniker": "App\\Models\\Repository\\GenericManager.cs",
@@ -513,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "TypeProduitControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\Tests\\Controllers\\TypeProduitControllerTests.cs",
               "RelativeDocumentMoniker": "Tests\\Controllers\\TypeProduitControllerTests.cs",
@@ -525,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "TypeProduitController.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\TypeProduitController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\TypeProduitController.cs",
@@ -537,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "ProduitController.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Controllers\\ProduitController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\ProduitController.cs",
@@ -549,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "Produit.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Models\\Produit.cs",
               "RelativeDocumentMoniker": "App\\Models\\Produit.cs",
@@ -561,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "20250905130246_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250905130246_InitialCreate.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\20250905130246_InitialCreate.cs",
@@ -573,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "20250912113714_FixFKMigration.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113714_FixFKMigration.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\20250912113714_FixFKMigration.cs",
@@ -585,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "20250912113800_FixFKMigration2.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250912113800_FixFKMigration2.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\20250912113800_FixFKMigration2.cs",
@@ -597,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -609,19 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20250926142735_ProduitMarquesMigration.cs",
-              "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
-              "RelativeDocumentMoniker": "App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
-              "ToolTip": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
-              "RelativeToolTip": "App\\Migrations\\20250926142735_ProduitMarquesMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:38:23.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "Sdk.props",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.Razor\\Sdk\\Sdk.props",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.Razor\\Sdk\\Sdk.props",
@@ -633,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "Tests.csproj",
               "DocumentMoniker": "C:\\Users\\dasilvda\\source\\repos\\Dreycod\\R508-main\\Tests\\Tests.csproj",
               "RelativeDocumentMoniker": "Tests\\Tests.csproj",
@@ -641,11 +779,12 @@
               "RelativeToolTip": "Tests\\Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-26T11:08:26.041Z"
+              "WhenOpened": "2025-09-26T11:08:26.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Sdk.Server.props",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.Web\\Targets\\Sdk.Server.props",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.Web\\Targets\\Sdk.Server.props",

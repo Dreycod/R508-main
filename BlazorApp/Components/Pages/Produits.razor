@@ -1,0 +1,49 @@
+﻿@page "/produits"
+@attribute [StreamRendering]
+
+<PageTitle>Produits</PageTitle>
+
+<h1>Weather</h1>
+
+<p>This component demonstrates showing data.</p>
+
+@if (produitsTableViewModel.Produits == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Nom Produit</th>
+            <th>Description</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var produit in produitsTableViewModel.Produits)
+        {
+            <tr>
+                <td>@produit.NomProduit</td>
+                <td>@produit.Description</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    ProduitsTableViewModel produitsTableViewModel = new ProduitsTableViewModel();
+
+    List<ToastMessage> messages = new List<ToastMessage>();
+
+    private void ShowMessage(ToastMessage toastMessage) => messages.Add(toastMessage);
+    protected override async Task OnInitializedAsync()
+    {
+        ToastMessage toastMessage = await produitsTableViewModel.LoadData();
+        ShowMessage(toastMessage);
+    }
+
+}

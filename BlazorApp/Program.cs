@@ -8,8 +8,8 @@ builder.Services.AddScoped<IService<Produit>, WebService>(_ => new WebService())
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-builder.Services.AddBlazorBootstrap();
 
+builder.Services.AddBlazorBootstrap();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
