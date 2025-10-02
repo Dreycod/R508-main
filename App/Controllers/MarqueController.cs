@@ -2,6 +2,7 @@
 using App.Models;
 using App.Models.Repository;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 
 namespace App.Controllers;
@@ -48,13 +49,22 @@ public class MarqueController(IMapper _mapper, IDataRepository<Marque> manager) 
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public async Task<ActionResult<Marque>> Create([FromBody] MarqueDto marqueDto)
     {
+        if (marqueDto is null)
+            return BadRequest("Body is required.");
+
         if (!ModelState.IsValid)
-        {
+            return ValidationProblem(ModelState);
+
+        if (string.IsNullOrWhiteSpace(marqueDto.NomMarque))
+            return BadRequest("NomMarque is required.");
+
+        if (!ModelState.IsValid)
             return BadRequest(ModelState);
-        }
+
         Marque marques = _mapper.Map<Marque>(marqueDto);
+        
         await manager.AddAsync(marques);
-        return CreatedAtAction("Get", new { id = marques.IdMarque }, marques);
+        return CreatedAtAction("Get", new { id = marqueDto.IdMarque }, marques);
     }
 
     [HttpPut("{id}")]

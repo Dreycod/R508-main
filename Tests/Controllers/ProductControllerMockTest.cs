@@ -13,6 +13,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using App.Models.EntityFramework;
 
 namespace Tests.Controllers;
 
@@ -21,12 +22,15 @@ namespace Tests.Controllers;
 [TestCategory("mock")]
 public class ProductControllerMockTest
 {
+    private readonly AppDbContext context;
     private readonly ProduitController _productController;
     private readonly Mock<IDataRepository<Produit>>  _produitManager;
     private readonly IMapper _mapper;
     
     public ProductControllerMockTest()
     {
+        context = new AppDbContext();
+
         _produitManager = new Mock<IDataRepository<Produit>>();
         var config = new MapperConfiguration(cfg => { 
             cfg.AddProfile<MapperProfile>();

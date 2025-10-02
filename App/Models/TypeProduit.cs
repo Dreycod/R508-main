@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace App.Models;
 
-[Table(("TypeProduit"))]
+[Table(("type_produit"))]
 public class TypeProduit
 {
     [Key]

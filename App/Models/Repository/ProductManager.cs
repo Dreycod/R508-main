@@ -4,6 +4,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace App.Models.Repository;
 
+//public class ProductManager(AppDbContext context) : GenericManager<Produit>, IDataRepository<Produit>
+//{
+//    // Place pour des méthodes spécifiques aux produits, aucune en ce moment
+//}
+
 public class ProductManager(AppDbContext context) : IDataRepository<Produit>
 {
     public async Task<ActionResult<IEnumerable<Produit>>> GetAllAsync()

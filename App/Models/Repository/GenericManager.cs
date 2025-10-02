@@ -4,40 +4,41 @@ using Microsoft.EntityFrameworkCore;
 
 namespace App.Models.Repository;
 
-public class GenericManager(AppDbContext context) : IDataRepository<Produit>
+public abstract class GenericManager<TEntity> : IDataRepository<TEntity> where TEntity : class
 {
-    public async Task<ActionResult<IEnumerable<Produit>>> GetAllAsync()
+    protected readonly AppDbContext context;
+
+    public async Task<ActionResult<IEnumerable<TEntity>>> GetAllAsync()
     {
-        return await context.Produits.ToListAsync();
+        return await context.Set<TEntity>().ToListAsync();
     }
 
-    public async Task<ActionResult<Produit?>> GetByIdAsync(int id)
+    public async Task<ActionResult<TEntity?>> GetByIdAsync(int id)
     {
-        return await context.Produits.FindAsync(id);
+        return await context.Set<TEntity>().FindAsync(id);
     }
 
-    public async Task<ActionResult<Produit?>> GetByStringAsync(string str)
+    public async Task<ActionResult<TEntity?>> GetByStringAsync(string str)
     {
         throw new NotImplementedException();
     }
 
-    public async Task AddAsync(Produit entity)
+    public async Task AddAsync(TEntity entity)
     {
-        await context.Produits.AddAsync(entity);
+        await context.Set<TEntity>().AddAsync(entity);
         await context.SaveChangesAsync();
     }
 
-    public async Task UpdateAsync(Produit entityToUpdate, Produit entity)
+    public async Task UpdateAsync(TEntity entityToUpdate, TEntity entity)
     {
-        context.Produits.Attach(entityToUpdate);
+        context.Set<TEntity>().Attach(entityToUpdate);
         context.Entry(entityToUpdate).CurrentValues.SetValues(entity);
-
         await context.SaveChangesAsync();
     }
 
-    public async Task DeleteAsync(Produit entity)
+    public async Task DeleteAsync(TEntity entity)
     {
-        context.Produits.Remove(entity);
+        context.Set<TEntity>().Remove(entity);
         await context.SaveChangesAsync();
     }
 }

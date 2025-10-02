@@ -38,7 +38,7 @@ namespace App.Migrations
 
                     b.HasKey("IdMarque");
 
-                    b.ToTable("Marques");
+                    b.ToTable("marque");
                 });
 
             modelBuilder.Entity("App.Models.Produit", b =>
@@ -115,7 +115,7 @@ namespace App.Migrations
 
                     b.HasKey("IdTypeProduit");
 
-                    b.ToTable("TypeProduits");
+                    b.ToTable("typeproduit");
                 });
 
             modelBuilder.Entity("App.Models.Produit", b =>

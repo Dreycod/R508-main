@@ -19,12 +19,12 @@ namespace Tests.Controllers;
 [TestClass]
 [TestSubject(typeof(TypeProduitController))]
 [TestCategory("integration")]
-public class TypeProduitControllerTests
+public class TypeProduitControllerTest
 {
     private readonly AppDbContext _context;
     private readonly TypeProduitController _TypeProduitController;
     private readonly IMapper _mapper;
-    public TypeProduitControllerTests()
+    public TypeProduitControllerTest()
     {
         _context = new AppDbContext();
 
@@ -64,12 +64,12 @@ public class TypeProduitControllerTests
         Assert.IsNotNull(action);
         Assert.IsInstanceOfType(action.Value, typeof(TypeProduitDto));
 
-        TypeProduitDto returnProduct = action.Value;
-        Assert.AreEqual(_mapper.Map<TypeProduitDto>(TypeProduitInDb), returnProduct);
+        TypeProduitDto returnTypeProduit = action.Value;
+        Assert.AreEqual(_mapper.Map<TypeProduitDto>(TypeProduitInDb), returnTypeProduit);
     }
 
     [TestMethod]
-    public void ShouldDeleteProduct()
+    public void ShouldDeleteTypeProduit()
     {
         // Given : Une TypeProduit en DB
         TypeProduit TypeProduitInDb = new()
@@ -146,7 +146,7 @@ public class TypeProduitControllerTests
     }
 
     [TestMethod]
-    public void ShouldCreateProduct()
+    public void ShouldCreateTypeProduit()
     {
         // Given : Un produit a enregistré
         TypeProduit TypeProduitToInsert = new()
@@ -166,7 +166,7 @@ public class TypeProduitControllerTests
     }
 
     [TestMethod]
-    public void ShouldUpdateProduct()
+    public void ShouldUpdateTypeProduit()
     {
         // Given : Une TypeProduit à mettre à jour
         TypeProduit TypeProduitToEdit = new()
@@ -194,7 +194,7 @@ public class TypeProduitControllerTests
     }
 
     [TestMethod]
-    public void ShouldNotUpdateProductBecauseIdInUrlIsDifferent()
+    public void ShouldNotUpdateTypeProduitBecauseIdInUrlIsDifferent()
     {
         // Given : Une TypeProduit à mettre à jour
         TypeProduit TypeProduitToEdit = new()
@@ -216,7 +216,7 @@ public class TypeProduitControllerTests
     }
 
     [TestMethod]
-    public void ShouldNotUpdateProductBecauseProductDoesNotExist()
+    public void ShouldNotUpdateTypeProduitBecauseTypeProduitDoesNotExist()
     {
         // Given : Une TypeProduit à mettre à jour
         TypeProduit TypeProduitToEdit = new()
