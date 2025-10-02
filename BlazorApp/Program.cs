@@ -3,12 +3,13 @@ using BlazorApp.Models;
 using BlazorApp.Service;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddScoped<IService<Produit>, WSService>(_ => new WSService());
+builder.Services.AddScoped<IService<Produit>, WebService>(_ => new WebService());
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+builder.Services.AddBlazorBootstrap();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

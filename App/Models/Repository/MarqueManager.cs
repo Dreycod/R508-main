@@ -3,6 +3,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace App.Models.Repository;
+
+//public class MarqueManager(AppDbContext context) : GenericManager<Marque>, IDataRepository<Marque>
+//{
+//    // Place pour des méthodes spécifiques aux marques, aucune en ce moment
+//}
+
+
 public class MarqueManager(AppDbContext context) : IDataRepository<Marque>
 {
     public async Task<ActionResult<IEnumerable<Marque>>> GetAllAsync()

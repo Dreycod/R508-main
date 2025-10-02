@@ -18,8 +18,6 @@ public class MapperProfile: Profile
     CreateMap<Produit, ProduitDetailDto>()
         .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.IdProduit))
         .ForMember(dest => dest.Nom, opt => opt.MapFrom(src => src.NomProduit))
-       // .ForMember(dest => dest.Type, opt => opt.MapFrom(src => src.TypeProduitNavigation?.NomTypeProduit))
-       // .ForMember(dest => dest.Marque, opt => opt.MapFrom(src => src.MarqueNavigation?.NomMarque))
         .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description))
         .ForMember(dest => dest.Nomphoto, opt => opt.MapFrom(src => src.NomPhoto))
         .ForMember(dest => dest.Uriphoto, opt => opt.MapFrom(src => src.UriPhoto))
@@ -28,10 +26,13 @@ public class MapperProfile: Profile
         .ReverseMap();
 
     CreateMap<Marque, MarqueDto>()
-       .ForMember(dest => dest.NbProduits,
-        opt => opt.MapFrom(src => src.Produits != null ? src.Produits.Count : 0))
-    .ReverseMap()
-    .ForMember(dest => dest.Produits, opt => opt.Ignore()); // <- IGNORE le mapping inverse
+        // IdMarque et NomMarque sont mappés automatiquement (même nom)
+        .ForMember(dest => dest.NbProduits,
+            opt => opt.MapFrom(src => src.Produits.Count)) // Produits.Count => NbProduits
+        .ReverseMap()
+        // Quand on reconvertit vers Marque, on n’a pas la liste des produits dans le DTO
+        // donc on ignore cette propriété pour éviter les erreurs EF Core
+        .ForMember(dest => dest.Produits, opt => opt.Ignore());
 
 
     CreateMap<TypeProduit, TypeProduitDto>().ReverseMap();

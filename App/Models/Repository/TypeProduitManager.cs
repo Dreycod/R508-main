@@ -3,6 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace App.Models.Repository;
+
+//public class TypeProduitManager(AppDbContext context) : GenericManager<TypeProduit>, IDataRepository<TypeProduit>
+//{
+//    // Place pour des méthodes spécifiques aux types de produits, aucune en ce moment
+//}
 public class TypeProduitManager(AppDbContext context) : IDataRepository<TypeProduit>
 {
     public async Task<ActionResult<IEnumerable<TypeProduit>>> GetAllAsync()

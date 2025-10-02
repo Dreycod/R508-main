@@ -12,7 +12,7 @@ namespace App.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Marque",
+                name: "marque",
                 columns: table => new
                 {
                     id_marque = table.Column<int>(type: "integer", nullable: false)
@@ -21,11 +21,11 @@ namespace App.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Marque", x => x.id_marque);
+                    table.PrimaryKey("PK_marque", x => x.id_marque);
                 });
 
             migrationBuilder.CreateTable(
-                name: "TypeProduit",
+                name: "type_produit",
                 columns: table => new
                 {
                     id_type_produit = table.Column<int>(type: "integer", nullable: false)
@@ -34,7 +34,7 @@ namespace App.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_TypeProduit", x => x.id_type_produit);
+                    table.PrimaryKey("PK_type_produit", x => x.id_type_produit);
                 });
 
             migrationBuilder.CreateTable(
@@ -59,12 +59,12 @@ namespace App.Migrations
                     table.ForeignKey(
                         name: "FK_produits_marque",
                         column: x => x.id_marque,
-                        principalTable: "Marque",
+                        principalTable: "marque",
                         principalColumn: "id_marque");
                     table.ForeignKey(
                         name: "FK_produits_type_produit",
                         column: x => x.id_type_produit,
-                        principalTable: "TypeProduit",
+                        principalTable: "type_produit",
                         principalColumn: "id_type_produit");
                 });
 
@@ -86,10 +86,10 @@ namespace App.Migrations
                 name: "produit");
 
             migrationBuilder.DropTable(
-                name: "Marque");
+                name: "marque");
 
             migrationBuilder.DropTable(
-                name: "TypeProduit");
+                name: "type_produit");
         }
     }
 }

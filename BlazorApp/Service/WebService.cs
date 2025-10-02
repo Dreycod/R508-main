@@ -2,11 +2,11 @@ using BlazorApp.Models;
 
 namespace BlazorApp.Service;
 
-public class WSService : IService<Produit>
+public class WebService : IService<Produit>
 {
     private readonly HttpClient httpClient = new() 
     { 
-        BaseAddress = new Uri("http://localhost:5011/api/") 
+        BaseAddress = new Uri("http://localhost:7008/api/") 
     };
 
     public async Task AddAsync(Produit produit)

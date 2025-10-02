@@ -1,5 +1,6 @@
 using App.DTO;
 using App.Models;
+using App.Models.EntityFramework;
 using App.Models.Repository;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
